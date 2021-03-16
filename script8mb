@@ -1,0 +1,1 @@
+ffmpeg -i ${1} -b:a 96k -c:v libx264 -vf scale=1280:720 -preset slow -fs 7M ${1}compressed-8mb.mp4
