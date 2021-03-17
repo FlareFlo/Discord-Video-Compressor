@@ -1,0 +1,9 @@
+{
+  "configs": [
+    {
+      "size": 8000000,
+      "quality": 27,
+      "audiobitrate": 96000
+    }
+  ]
+}
