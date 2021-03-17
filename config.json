@@ -3,7 +3,10 @@
     {
       "size": 8000000,
       "quality": 27,
-      "audiobitrate": 96000
+      "audiobitrate": 96000,
+      "codec": "libx264",
+      "Hresolution": 1280,
+      "Vresolution": 720
     }
   ]
 }
