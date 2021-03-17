@@ -1,1 +1,0 @@
-jq ".configs[0] | .size"  test.json
