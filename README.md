@@ -3,8 +3,8 @@
  
  Requirements;
  WSL with:
- sudo apt install ffmpeg //As the main processing for the video files
- sudo apt install jq     //For JSON parsing to read Config files
+ `sudo apt install ffmpeg`
+ `sudo apt install jq`
  
  Usage;
  Drag and drop video file (all FFMPEG supported ones) onto the corresponding batch file and wait for FFMPEG conversion to happen.
