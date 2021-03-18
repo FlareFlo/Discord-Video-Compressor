@@ -4,7 +4,6 @@
       "size": "8M",
       "quality": 27,
       "audiobitrate": 96000,
-      "codec": "libx264",
       "horizontalresolution": 1280,
       "verticalresolution": 720,
       "preset": "slow"
