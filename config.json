@@ -1,7 +1,7 @@
 {
   "configs": [
     {
-      "size": 8000000,
+      "size": "8M",
       "quality": 27,
       "audiobitrate": 96000,
       "codec": "libx264",
