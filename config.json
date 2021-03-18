@@ -5,8 +5,9 @@
       "quality": 27,
       "audiobitrate": 96000,
       "codec": "libx264",
-      "Hresolution": 1280,
-      "Vresolution": 720
+      "horizontalresolution": 1280,
+      "verticalresolution": 720,
+      "preset": "slow"
     }
   ]
 }
