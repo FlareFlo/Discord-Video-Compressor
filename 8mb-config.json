@@ -2,8 +2,8 @@
   "configs": [
     {
       "size": "8M",
-      "quality": 25,
-      "audiobitrate": "96K",
+      "quality": "25",
+      "audiobitrate": "-b:a 96K",
       "horizontalresolution": 1280,
       "verticalresolution": 720,
       "preset": "slow"
